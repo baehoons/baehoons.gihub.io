@@ -1,0 +1,15 @@
+---
+title: 스마트 출입통제 모바일 앱
+subtitle: Flutter App
+layout: default
+modal-id: 2
+date: 2023-02-07
+img: cherry.png
+thumbnail: cherry.png
+alt: image-alt
+update: 2023/02/07
+technology: Dart, JS
+
+description: 숙소 조회 및 예약(Rest API 통신) / 출입키 발급 및 도어락 개폐(BLE) / 지도 검색 및 클러스터링(Kakao SDK)
+
+---

@@ -1,0 +1,15 @@
+---
+title: 수면케어 안대 모바일 앱
+subtitle: Android Native
+layout: default
+modal-id: 1
+date: 2023-02-07
+img: sleep.png
+thumbnail: sleep.png
+alt: image-alt
+update: 2023/02/07
+technology: Kotlin
+code: 
+description: 수면케어 통계 조회(Rest API 통신) / 수면케어 안대 제어(BLE 통신) /수면케어 알람 및 ASMR, 음악 설정(Native)
+
+---
