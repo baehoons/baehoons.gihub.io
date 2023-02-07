@@ -1,6 +1,6 @@
 ---
 title: 상품안전유통 관리자 웹
-subtitle: Website Design
+subtitle: Nuxt3 Website
 layout: default
 modal-id: 3
 date: 2023-02-07
