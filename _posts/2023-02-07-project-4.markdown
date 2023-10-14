@@ -1,17 +1,17 @@
 ---
-title: 상품안전유통 관리자 웹
-subtitle: Nuxt3 Website
+title: 코로나키트 진단 모바일 앱
+subtitle: SmartVision covid-19
 layout: default
-modal-id: 3
-date: 2023-02-07
-img: product.png
-thumbnail: product.png
+modal-id: 4
+date: 2023-10-14
+img: covid1.png
+thumbnail: covid1.png
 alt: image-alt
 update: 2023/02/07
-technology: Nuxt3, Axios
+technology: Android, Kotlin, Camera2, CameraX
 code: 
 link1: https://blog.naver.com/js_aa26
 link2: 
-description: 관리자 로그인(Rest API, Session) / 전자문서 조회 및 송신(Rest API) / 전자문서 및 사용자 통계
+description: 의료키트 촬영 및 분석, 결과 조회 및 가이드 제시
 
 ---
