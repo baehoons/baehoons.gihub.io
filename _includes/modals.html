@@ -15,24 +15,27 @@
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
                             <p>{{ post.description }}</p>
+                            <p>{{ post.description2 }}</p>
+                            <p>{{ post.description3 }}</p>
                             <ul class="list-inline item-details">
-                                <li>Demo:
+                                <li>프로젝트 기관(회사):
                                     <strong><a href="{{ post.link1 }}" target="blank">{{ post.demo }}</a>
                                     </strong>
                                 </li>
-                                <li>Code:
+                                <!-- <li>Code:
                                     <strong><a href="{{ post.link2 }}" target="blank">{{ post.code }}</a>
                                     </strong>
-                                </li>
-                                <li>Update:
+                                </li> -->
+                                <li>업데이트:
                                     {{ post.update }}</a>
                                 </li>
-                                <li>Technology:
+                                <li>기술:
                                     <strong>{{ post.technology }}</a>
                                     </strong>
                                 </li>
                             </ul>
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            <img src="img/portfolio/{{ post.img2 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>

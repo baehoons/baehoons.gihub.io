@@ -1,0 +1,19 @@
+---
+title: 비타민D 키트 진단 모바이ㅣㄹ 앱
+subtitle: Android Native
+layout: default
+modal-id: 5
+date: 2024-05-03
+img: vtd1.png
+img2: vtd2.png
+thumbnail: covid1.png
+alt: image-alt
+update: 2023/02/07
+technology: Android, Kotlin, Camera2, CameraX, OpenCV
+code: 
+demo: 디아비전
+link1: https://www.diavision.co.kr/
+link2: 
+description: 비타민D 신속진단 키트 촬영 및 분석, 결과 조회 및 가이드 제시
+
+---

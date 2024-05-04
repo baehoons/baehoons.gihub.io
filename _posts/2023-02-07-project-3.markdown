@@ -5,12 +5,14 @@ layout: default
 modal-id: 3
 date: 2023-02-07
 img: product.png
+img2: 
 thumbnail: product.png
 alt: image-alt
 update: 2023/02/07
 technology: Nuxt3, Axios
 code: 
-link1: https://blog.naver.com/js_aa26
+demo: 나연테크
+link1: http://www.nayuntech.com/
 link2: 
 description: 관리자 로그인(Rest API, Session) / 전자문서 조회 및 송신(Rest API) / 전자문서 및 사용자 통계
 

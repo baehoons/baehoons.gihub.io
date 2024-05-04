@@ -1,17 +1,19 @@
 ---
 title: 코로나키트 진단 모바일 앱
-subtitle: SmartVision covid-19
+subtitle: Android Native
 layout: default
 modal-id: 4
-date: 2023-10-14
+date: 2023-05-03
 img: covid1.png
+img2: covid2.png
 thumbnail: covid1.png
 alt: image-alt
-update: 2023/02/07
-technology: Android, Kotlin, Camera2, CameraX
+update: 2024/05/03
+technology: Android, Kotlin, Camera2, CameraX, OpenCV
 code: 
-link1: https://blog.naver.com/js_aa26
+demo: 디아비전
+link1: https://www.diavision.co.kr/
 link2: 
-description: 의료키트 촬영 및 분석, 결과 조회 및 가이드 제시
+description: 코로나 신속진단 키트 촬영 및 분석, 결과 조회 및 가이드 제시
 
 ---
