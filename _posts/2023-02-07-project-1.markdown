@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 date: 2023-02-07
 img: sleep.png
-img2: 
+img2: nayun.png
 thumbnail: sleep.png
 alt: image-alt
 update: 2023/02/07
@@ -13,7 +13,9 @@ technology: Android, Kotlin, BLE, REST API
 code: 
 demo: 나연테크
 link1: http://www.nayuntech.com/
-description: 수면케어 통계 조회(Rest API 통신) \n 수면케어 안대 제어(BLE 통신) \n 수면케어 알람 및 ASMR, 음악 설정(Native)
-
-
+description: 수면에 도움을 주는 수면안대를 제어하고 수면데이터를 조회 가능한 안드로이드 모바일 앱 입니다.
+description2: BLE 통신과 Retrofit을 이용한 REST API 통신 (수면안대 제어, 수면데이터 조회)
+description3: MVVM과 Data Binding을 통한 데이터 처리와 모바일의 흐름 처리
+description4: Koin을 통한 DI 처리
+description5: Materail Design을 통한 UI 처리
 ---

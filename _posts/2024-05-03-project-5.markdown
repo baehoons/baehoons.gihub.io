@@ -8,12 +8,15 @@ img: vtd1.png
 img2: vtd2.png
 thumbnail: vtd1.png
 alt: image-alt
-update: 2023/02/07
+update: 2024/05/03
 technology: Android, Kotlin, Camera2, CameraX, OpenCV
 code: 
 demo: 디아비전
 link1: https://www.diavision.co.kr/
 link2: 
-description: 비타민D 신속진단 키트 촬영 및 분석, 결과 조회 및 가이드 제시
-
+description: 비타민D 신속진단 키트를 모바일로 측정해 전문 의료기기와 동일한 결과를 편하게 볼 수 있는 안드로이드 모바일 앱 입니다.
+description2: MVVM과 View Binding을 통한 데이터 처리와 모바일의 흐름 처리
+description3: Google mlkit 이용한 QR인식 및 문자인식(코로나 키트 제품인식, 키트 촬영조건)
+description4: Camera2, CameraX를 통해 키트 측정 카메라 셋팅
+description5: OpenCV를 통한 프레임 단위 측정으로 촬영 이미지 보정
 ---

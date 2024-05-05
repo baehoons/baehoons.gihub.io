@@ -15,8 +15,6 @@
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
                             <p>{{ post.description }}</p>
-                            <p>{{ post.description2 }}</p>
-                            <p>{{ post.description3 }}</p>
                             <ul class="list-inline item-details">
                                 <li>프로젝트 기관(회사):
                                     <strong><a href="{{ post.link1 }}" target="blank">{{ post.demo }}</a>
@@ -36,6 +34,10 @@
                             </ul>
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             <img src="img/portfolio/{{ post.img2 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            <p><strong> &#186; {{ post.description2 }}</strong></p>
+                            <p><strong> &#186; {{ post.description3 }}</strong></p>
+                            <p><strong> &#186; {{ post.description4 }}</strong></p>
+                            <p><strong> &#186; {{ post.description5 }}</strong></p>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>

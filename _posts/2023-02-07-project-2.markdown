@@ -5,13 +5,16 @@ layout: default
 modal-id: 2
 date: 2023-02-07
 img: cherry.png
-img2: 
+img2: nayun.png
 thumbnail: cherry.png
 alt: image-alt
 update: 2023/02/07
 technology: Dart, JS
 demo: 나연테크
 link1: http://www.nayuntech.com/
-description: 숙소 조회 및 예약(Rest API 통신) / 출입키 발급 및 도어락 개폐(BLE) / 지도 검색 및 클러스터링(Kakao SDK)
-
+description: 모바일로 숙박시설을 예약, 자동 체크인, 문 개폐까지 한번에 관리해주는 Flutter 모바일 앱 입니다.
+description2: Flutter를 사용해 크로스 플랫폼 구축 (Android ,iOS 동시 빌드)
+description3: Provider를 사용한 생명주기, 앱 흐름 구축
+description4: Rest API 통신을 이용해 해당 브릿지와 통신 (숙박예약, 자동 체크인)
+description5: BLE를 사용해 도어락을 자동 개폐
 ---
