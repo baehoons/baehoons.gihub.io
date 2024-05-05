@@ -13,8 +13,7 @@ technology: Android, Kotlin, BLE, REST API
 code: 
 demo: 나연테크
 link1: http://www.nayuntech.com/
-description: 수면케어 통계 조회(Rest API 통신)
-description2: /&#176; 수면케어 안대 제어(BLE 통신)
-description3: \&#176; 수면케어 알람 및 ASMR, 음악 설정(Native) \n *
+description: 수면케어 통계 조회(Rest API 통신) \n 수면케어 안대 제어(BLE 통신) \n 수면케어 알람 및 ASMR, 음악 설정(Native)
+
 
 ---
